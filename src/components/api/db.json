@@ -1,0 +1,34 @@
+{
+  "caballeros": [
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constellation": "Dragón"
+    },
+    {
+      "id": 3,
+      "name": "Hyoga",
+      "constellation": "Cisne"
+    },
+    {
+      "id": 4,
+      "name": "Shun",
+      "constellation": "Andrómeda"
+    },
+    {
+      "id": 5,
+      "name": "Ikki",
+      "constellation": "Fénix"
+    },
+    {
+      "name": "asdas",
+      "constellation": "sadas",
+      "id": 1635364387789
+    },
+    {
+      "name": "as",
+      "constellation": "sa",
+      "id": 1635366188165
+    }
+  ]
+}
